@@ -1,4 +1,4 @@
-- 👋 Hi, I’m つ ✿◕‿◕✿༽つ Momo or MJ, ex writer and content creator for publishers, aspiring web and software developer
+- 👋 Hi,つ ✿◕‿◕✿༽つ I’m Momo or MJ, ex writer and content creator for publishers, aspiring web and software developer
 - 🖥️ Very interested in Internet of Things and UX
 - 👀 Usually concerning myself with writing, reading comics and novels, all things horror, food, video games and cinematography
 - 👜 Collector of Screenplays, Gundam, Maps and other little things. 
