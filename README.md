@@ -4,7 +4,11 @@
 - 👜 Collector of Screenplays, Gundam, Maps and other little things. 
 - 🌱 I’m currently learning Python JS, HTML, CSS, Java, C#, SQL and more.  Hopefully much more in the not so distant future
 - 💞️ I’m looking to collaborate on (not sure yet probably creative software and web development projects)
-- 📫 How to reach me (do I put that here?(⊙_☉)) 
+- 📫 How to reach me ((⊙_☉)) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bymoniquejackson)](https://github.com/bymoniquejackson/github-readme-stats)
+
+
 
 <!---
 bymoniquejackson/bymoniquejackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
